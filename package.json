@@ -1,0 +1,15 @@
+{
+  "name": "slingshot-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
