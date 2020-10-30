@@ -10,6 +10,11 @@
   "author": "Jim Pick (@jimpick)",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^5.4.1"
+    "@filecoin-shipyard/lotus-client-provider-nodejs": "^0.0.5",
+    "@filecoin-shipyard/lotus-client-rpc": "^0.0.13",
+    "@filecoin-shipyard/lotus-client-schema": "^2.0.0",
+    "delay": "^4.4.0",
+    "puppeteer": "^5.4.1",
+    "puppeteer-full-page-screenshot": "^1.0.5"
   }
 }
